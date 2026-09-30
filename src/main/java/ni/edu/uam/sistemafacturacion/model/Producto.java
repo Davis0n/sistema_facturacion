@@ -18,6 +18,6 @@ public class Producto {
     private BigDecimal precioVenta;
     private int existencia;
     private boolean activo;
-    private String ruta_imagen;
+    private String rutaImagen;
 }
 
